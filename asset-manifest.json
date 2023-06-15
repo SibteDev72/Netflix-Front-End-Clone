@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Netflix-Front-End-Clone/static/css/main.e9bbf175.css",
+    "main.js": "/Netflix-Front-End-Clone/static/js/main.172a87a5.js",
+    "index.html": "/Netflix-Front-End-Clone/index.html",
+    "main.e9bbf175.css.map": "/Netflix-Front-End-Clone/static/css/main.e9bbf175.css.map",
+    "main.172a87a5.js.map": "/Netflix-Front-End-Clone/static/js/main.172a87a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9bbf175.css",
+    "static/js/main.172a87a5.js"
+  ]
+}
