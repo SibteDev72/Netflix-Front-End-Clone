@@ -1,0 +1,36 @@
+.List_Container{
+    color: white;
+    margin-top: 30px;
+    margin-left: 35px;
+    font-size: 22px;
+
+    .trending_sider_movies{
+        position: relative;
+
+        .Movies_Wrapper{
+            display: flex;
+            width: max-content;
+            transition: all 1s ease;
+        }
+
+        .slider{
+            position: absolute;
+            z-index: 10;
+            top: 8%;
+            bottom: 0%;
+            background-color: rgba(21, 21, 21, 0.6);
+            height: 182px;
+            width: 35px;
+            color: white;
+            cursor: pointer;
+
+            &.left{
+                left: -3%;
+            }
+            &.right{
+                right: 0%;
+            }
+
+        }
+    }
+}
